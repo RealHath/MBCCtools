@@ -1,6 +1,8 @@
 {
   "name": "MBCCtools",
-  "version": "v1.3.8",
+  "title": "MBCCtools",
+  "icon": "assets/logo.ico",
+  "version": "v1.3.10",
   "mirrorchyan_rid": "MBCCtools",
   "mirrorchyan_multiplatform": true,
   "url": "https://github.com/quietlysnow/MBCCtools",
