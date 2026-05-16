@@ -1,12 +1,22 @@
-## 1.3.10 (2026-05-12)
-
-### 🐛 Bug修复
-
-- 修复密令流程卡住问题并新增等级奖励领取 @RealHath
+## 1.4.0 (2026-05-16)
 
 ### ✨ 新增
 
+- 新增破碎防线 pipeline，支持自动领奖 @RealHath
 - 项目 interface.json 新增 title 和 icon 字段
+
+### 🐛 Bug修复
+
+- 修复通行证密令流程卡住问题，新增等级奖励领取 @RealHath
+- 修复通行证完成后缺少关闭界面跳转 @RealHath
+- 修复领取密令等级奖励缺少点击动作 @RealHath
+- 恢复 bilibili 友情点和监管 pipeline 配置 @RealHath
+
+### 🔧 优化
+
+- 移除 bilibili 冗余资源文件，B服复用 base 资源 @RealHath
+- 移除启动流程中多余的 MaaPipelineEditor 元数据 @RealHath
+- B服资源路径合并到 base
 
 ## 1.3.9 (2026-03-26)
 
