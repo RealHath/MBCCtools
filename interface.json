@@ -22,6 +22,7 @@
     {
       "name": "B服",
       "path": [
+        "{PROJECT_DIR}/resource/base",
         "{PROJECT_DIR}/resource/bilibili"
       ]
     }
@@ -91,6 +92,11 @@
     {
       "name": "每日/密令奖励",
       "entry": "密令"
+    },
+    {
+      "name": "破碎防线",
+      "entry": "破碎防线",
+      "doc": "只支持自动领奖，不战斗"
     }
   ],
   "option": {
