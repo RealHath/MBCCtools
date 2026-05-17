@@ -263,7 +263,7 @@
       "sha512": "sha512-BsAG42ucBUJqUi0Sw6ysj63awLggjjPkhaFgEnRYSC1LolYbZEVM8bfHSL/glU7bmicF7qCeRCrsBRKHNs7GdQ==",
       "type": "package"
     },
-    "MFAAvalonia.Core.Reference/2.8.0.0": {
+    "MFAAvalonia.Core.Reference/2.11.4.0": {
       "serviceable": false,
       "sha512": "",
       "type": "reference"
@@ -278,32 +278,32 @@
       "sha512": "",
       "type": "project"
     },
-    "Maa.Framework.Binding.Native/5.6.0-preview.1": {
-      "hashPath": "maa.framework.binding.native.5.6.0-preview.1.nupkg.sha512",
-      "path": "maa.framework.binding.native/5.6.0-preview.1",
+    "Maa.Framework.Binding.Native/5.8.0": {
+      "hashPath": "maa.framework.binding.native.5.8.0.nupkg.sha512",
+      "path": "maa.framework.binding.native/5.8.0",
       "serviceable": true,
-      "sha512": "sha512-JgLNfTzX82Y/UKQswrrMmUkfJDqLzO8b9+0DuD/c/KN2tKGQQzdFmx64HHEzg73I6C33XaYTDsC/dU1G68Z07g==",
+      "sha512": "sha512-Xgf0TMc8iIi9rPkmp4pT7ndCpo7adRMX5KdPlH3n8iBaFiCaV/wuDLehwoSmlU+tqJS1UDvSsRzvBMv43QK3Qg==",
       "type": "package"
     },
-    "Maa.Framework.Binding/5.6.0-preview.1": {
-      "hashPath": "maa.framework.binding.5.6.0-preview.1.nupkg.sha512",
-      "path": "maa.framework.binding/5.6.0-preview.1",
+    "Maa.Framework.Binding/5.8.0": {
+      "hashPath": "maa.framework.binding.5.8.0.nupkg.sha512",
+      "path": "maa.framework.binding/5.8.0",
       "serviceable": true,
-      "sha512": "sha512-VVeYYahqmUBSz9MifRy+P7h+9czKveBVCJgWXLUfzDQgzAChofcBBk5ciCTVV9bpQMfLuTs1v6hml14Ex70YeQ==",
+      "sha512": "sha512-feueOj1lWJyMsZHxWjnTimYtyTEAMDCvbMkzW/QlQGPh5dGWADZbtuyYfaSOdcorDJ0Af8Zg9H+pevN4GycOJQ==",
       "type": "package"
     },
-    "Maa.Framework.Native/5.6.0-preview.1": {
-      "hashPath": "maa.framework.native.5.6.0-preview.1.nupkg.sha512",
-      "path": "maa.framework.native/5.6.0-preview.1",
+    "Maa.Framework.Native/5.8.0": {
+      "hashPath": "maa.framework.native.5.8.0.nupkg.sha512",
+      "path": "maa.framework.native/5.8.0",
       "serviceable": true,
-      "sha512": "sha512-BCINDJfN5Q+qeGMQcA/i/bSNo+iqoUXDkFeYR/BZ9EM0vzSLR21zutks/00FZPXjJpLZbJdFqR5mXm4ZRuExJw==",
+      "sha512": "sha512-cglJrIQJG/RhQ7Aww2qOQ018y+DNUBJhleMbX8oOOdP9xkprTST3+GcUQlr5LuXFYU+4c/q3tRPFapt0UhD7xw==",
       "type": "package"
     },
-    "Maa.Framework/5.6.0-preview.1": {
-      "hashPath": "maa.framework.5.6.0-preview.1.nupkg.sha512",
-      "path": "maa.framework/5.6.0-preview.1",
+    "Maa.Framework/5.8.0": {
+      "hashPath": "maa.framework.5.8.0.nupkg.sha512",
+      "path": "maa.framework/5.8.0",
       "serviceable": true,
-      "sha512": "sha512-5ujTihihXamaSUT2SjfolS1GZwe4vQmdtPqk29YdwFaJ/7OkFPjujd4AOvi7UG2I0F3QeEZKJuEoJgZYF4ApgA==",
+      "sha512": "sha512-ydQ6EhGk7uEieRf3I/2Qqkz+iZrhz7mWb+aP1Swy21C13fZCesoly0bGwqVdCKAz7fBGRiTmuzk1lBuCoSf7bQ==",
       "type": "package"
     },
     "MailKit/4.14.1": {
@@ -1170,10 +1170,13 @@
           }
         }
       },
-      "MFAAvalonia.Core.Reference/2.8.0.0": {
+      "MFAAvalonia.Core.Reference/2.11.4.0": {
         "resources": {
           "en-US/MFAAvalonia.Core.resources.dll": {
             "locale": "en-US"
+          },
+          "ja-JP/MFAAvalonia.Core.resources.dll": {
+            "locale": "ja-JP"
           },
           "zh-Hant/MFAAvalonia.Core.resources.dll": {
             "locale": "zh-Hant"
@@ -1181,8 +1184,8 @@
         },
         "runtime": {
           "MFAAvalonia.Core.dll": {
-            "assemblyVersion": "2.8.0.0",
-            "fileVersion": "2.8.0.0"
+            "assemblyVersion": "2.11.4.0",
+            "fileVersion": "2.11.4.0"
           }
         }
       },
@@ -1202,7 +1205,7 @@
           "CommunityToolkit.Mvvm": "8.4.0",
           "CrossPlatformProtectedData": "1.0.3",
           "Lang.Avalonia": "11.3.12.1",
-          "Maa.Framework": "5.6.0-preview.1",
+          "Maa.Framework": "5.8.0",
           "MailKit": "4.14.1",
           "Markdown.Avalonia": "11.3.1",
           "Microsoft.CodeAnalysis.CSharp": "5.0.0",
@@ -1234,6 +1237,9 @@
           "en-US/MFAAvalonia.Core.resources.dll": {
             "locale": "en-US"
           },
+          "ja-JP/MFAAvalonia.Core.resources.dll": {
+            "locale": "ja-JP"
+          },
           "zh-Hant/MFAAvalonia.Core.resources.dll": {
             "locale": "zh-Hant"
           }
@@ -1248,39 +1254,39 @@
         "dependencies": {
           "Avalonia.Desktop": "11.3.12",
           "MFAAvalonia.Core": "1.1.0",
-          "MFAAvalonia.Core.Reference": "2.8.0.0"
+          "MFAAvalonia.Core.Reference": "2.11.4.0"
         },
         "runtime": {
           "MFAAvalonia.dll": {}
         }
       },
-      "Maa.Framework.Binding.Native/5.6.0-preview.1": {
+      "Maa.Framework.Binding.Native/5.8.0": {
         "dependencies": {
-          "Maa.Framework.Binding": "5.6.0-preview.1"
+          "Maa.Framework.Binding": "5.8.0"
         },
         "runtime": {
           "lib/net9.0/MaaFramework.Binding.Native.dll": {
-            "assemblyVersion": "5.6.0.0",
-            "fileVersion": "5.6.0.0"
+            "assemblyVersion": "5.8.0.0",
+            "fileVersion": "5.8.0.0"
           }
         }
       },
-      "Maa.Framework.Binding/5.6.0-preview.1": {
+      "Maa.Framework.Binding/5.8.0": {
         "runtime": {
           "lib/net9.0/MaaFramework.Binding.dll": {
-            "assemblyVersion": "5.6.0.0",
-            "fileVersion": "5.6.0.0"
+            "assemblyVersion": "5.8.0.0",
+            "fileVersion": "5.8.0.0"
           }
         }
       },
-      "Maa.Framework.Native/5.6.0-preview.1": {
+      "Maa.Framework.Native/5.8.0": {
         "dependencies": {
-          "Maa.Framework.Binding.Native": "5.6.0-preview.1"
+          "Maa.Framework.Binding.Native": "5.8.0"
         }
       },
-      "Maa.Framework/5.6.0-preview.1": {
+      "Maa.Framework/5.8.0": {
         "dependencies": {
-          "Maa.Framework.Native": "5.6.0-preview.1"
+          "Maa.Framework.Native": "5.8.0"
         }
       },
       "MailKit/4.14.1": {

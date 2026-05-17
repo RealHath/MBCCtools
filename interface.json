@@ -1,7 +1,7 @@
 {
   "name": "MBCCtools",
   "title": "MBCCtools",
-  "icon": "assets/logo.ico",
+  "icon": "resource/base/image/logo.jpg",
   "version": "v1.4.0",
   "mirrorchyan_rid": "MBCCtools",
   "mirrorchyan_multiplatform": true,
