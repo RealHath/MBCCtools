@@ -26,24 +26,42 @@
         "post_wait_freezes": 300
     },
     "领取友情点": {
-        "recognition": "TemplateMatch",
-        "template": "一键领取.png",
+        "recognition": "OCR",
+        "expected": "领取",
+        "roi": [
+            867,
+            581,
+            393,
+            98
+        ],
         "action": "Click",
-        "post_wait_freezes": 3000,
+        "target": [
+            1150,
+            616,
+            1,
+            1
+        ],
+        "post_delay": 2000,
         "next": [
             "赠送友情点"
         ]
     },
     "赠送友情点": {
         "recognition": "OCR",
-        "expected": "键赠送",
+        "expected": "赠送",
         "roi": [
-            1058,
-            590,
-            185,
-            71
+            867,
+            581,
+            393,
+            98
         ],
         "action": "Click",
+        "target": [
+            1150,
+            616,
+            1,
+            1
+        ],
         "post_wait_freezes": 3000,
         "next": [
             "主菜单"

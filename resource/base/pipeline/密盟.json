@@ -67,7 +67,7 @@
         ]
       }
     },
-    "post_wait_freezes": 5000
+    "post_wait_freezes": 2000
   },
   "捐赠入口": {
     "recognition": {

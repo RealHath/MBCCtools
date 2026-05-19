@@ -263,7 +263,7 @@
       "sha512": "sha512-BsAG42ucBUJqUi0Sw6ysj63awLggjjPkhaFgEnRYSC1LolYbZEVM8bfHSL/glU7bmicF7qCeRCrsBRKHNs7GdQ==",
       "type": "package"
     },
-    "MFAAvalonia.Core.Reference/2.11.4.0": {
+    "MFAAvalonia.Core.Reference/2.12.0.0": {
       "serviceable": false,
       "sha512": "",
       "type": "reference"
@@ -282,21 +282,21 @@
       "hashPath": "maa.framework.binding.native.5.8.0.nupkg.sha512",
       "path": "maa.framework.binding.native/5.8.0",
       "serviceable": true,
-      "sha512": "sha512-Xgf0TMc8iIi9rPkmp4pT7ndCpo7adRMX5KdPlH3n8iBaFiCaV/wuDLehwoSmlU+tqJS1UDvSsRzvBMv43QK3Qg==",
+      "sha512": "sha512-d2ivbqGTNaPkl3JHEN1kquRvilSCfU67a5SfIUzhpeZU0gLwMBkqFTupuv5UjsDfLt5NT8YdnkSpQEwJcY8xww==",
       "type": "package"
     },
     "Maa.Framework.Binding/5.8.0": {
       "hashPath": "maa.framework.binding.5.8.0.nupkg.sha512",
       "path": "maa.framework.binding/5.8.0",
       "serviceable": true,
-      "sha512": "sha512-feueOj1lWJyMsZHxWjnTimYtyTEAMDCvbMkzW/QlQGPh5dGWADZbtuyYfaSOdcorDJ0Af8Zg9H+pevN4GycOJQ==",
+      "sha512": "sha512-78d4xwDOtYSPGJDOggeQsmu+utQ86Lc6woCRt8W4xhvO98Loe/J7TnYMRyW/3W4TTBWoKy3rtGtulaogNJozFg==",
       "type": "package"
     },
     "Maa.Framework.Native/5.8.0": {
       "hashPath": "maa.framework.native.5.8.0.nupkg.sha512",
       "path": "maa.framework.native/5.8.0",
       "serviceable": true,
-      "sha512": "sha512-cglJrIQJG/RhQ7Aww2qOQ018y+DNUBJhleMbX8oOOdP9xkprTST3+GcUQlr5LuXFYU+4c/q3tRPFapt0UhD7xw==",
+      "sha512": "sha512-iBPEr3jDbVTnlVRhMbZfba4WTdgsFbAHCiqtUD2JRBnFhQmiS97UMqGI24O7Ag2lQDaWD/KbohVEWskYlfz4kQ==",
       "type": "package"
     },
     "Maa.Framework/5.8.0": {
@@ -1170,7 +1170,7 @@
           }
         }
       },
-      "MFAAvalonia.Core.Reference/2.11.4.0": {
+      "MFAAvalonia.Core.Reference/2.12.0.0": {
         "resources": {
           "en-US/MFAAvalonia.Core.resources.dll": {
             "locale": "en-US"
@@ -1184,8 +1184,8 @@
         },
         "runtime": {
           "MFAAvalonia.Core.dll": {
-            "assemblyVersion": "2.11.4.0",
-            "fileVersion": "2.11.4.0"
+            "assemblyVersion": "2.12.0.0",
+            "fileVersion": "2.12.0.0"
           }
         }
       },
@@ -1254,7 +1254,7 @@
         "dependencies": {
           "Avalonia.Desktop": "11.3.12",
           "MFAAvalonia.Core": "1.1.0",
-          "MFAAvalonia.Core.Reference": "2.11.4.0"
+          "MFAAvalonia.Core.Reference": "2.12.0.0"
         },
         "runtime": {
           "MFAAvalonia.dll": {}
