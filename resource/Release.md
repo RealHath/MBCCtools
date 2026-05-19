@@ -1,3 +1,20 @@
+## 1.4.2 (2026-05-19)
+
+### 🔧 优化
+
+- 更新 pipeline 资源及 MaaNode 节点
+
+## 1.4.1 (2026-05-18)
+
+### 🔧 优化
+
+- 移除 agent 模块，更新 pipeline 资源及 MaaNode 节点
+- 强制 GitHub Actions 使用 Node.js 24 以适配即将到来的弃用
+
+### 🐛 Bug修复
+
+- 修复 install.py 中对已删除 agent 目录的引用
+
 ## 1.4.0 (2026-05-16)
 
 ### ✨ 新增
